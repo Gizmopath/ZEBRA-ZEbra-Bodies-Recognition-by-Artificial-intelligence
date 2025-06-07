@@ -4,6 +4,8 @@
 
 This repository provides **classification and segmentation tools** trained on high-resolution kidney biopsy images to detect vacuolated (foamy) podocytes — the microscopic hallmark of Fabry disease.
 
+![Study design](<https://github.com/Gizmopath/ZEBRA-ZEbra-Bodies-Recognition-by-Artificial-intelligence/blob/main/images/Figure%201.jpg>)
+
 ---
 
 ## 🧠 Why ZEBRA?
@@ -87,10 +89,10 @@ Fabry disease often presents subtle histological signs, especially in women or i
 ## 🖼️ Visual Examples
 
 ### 🔍 Classification Example  
-![Classification Preview](<INSERT_CLASSIFICATION_IMAGE_URL>)
+![Classification Preview](<https://github.com/Gizmopath/ZEBRA-ZEbra-Bodies-Recognition-by-Artificial-intelligence/blob/main/images/Figure%202.jpg>)
 
 ### 🧠 Segmentation Example  
-![Segmentation Preview](<INSERT_SEGMENTATION_IMAGE_URL>)
+![Segmentation Preview](<https://github.com/Gizmopath/ZEBRA-ZEbra-Bodies-Recognition-by-Artificial-intelligence/blob/main/images/Figure%203.jpg>)
 
 ---
 
