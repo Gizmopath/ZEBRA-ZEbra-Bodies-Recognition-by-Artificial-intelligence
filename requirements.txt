@@ -1,0 +1,15 @@
+# Deep Learning
+torch>=1.12.0
+torchvision>=0.13.0
+transformers>=4.28.0
+
+# Utility
+numpy>=1.21.0
+tqdm>=4.62.0
+Pillow>=9.0.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+
+# Optional: for CUDA acceleration
+# torchaudio>=0.12.0
+# cudatoolkit=11.3
